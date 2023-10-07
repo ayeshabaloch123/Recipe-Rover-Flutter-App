@@ -15,17 +15,21 @@ We believe everyone has a unique recipe worth sharing. Recipe Rover empowers use
 #### 3. User-Friendly Interface
 Our user interface is crafted with simplicity in mind. Users can effortlessly navigate through recipes, save their favorites, and contribute without any hassle. The app provides a seamless experience for both beginners and seasoned cooks.
 #### 4. Secure User Authentication
-
-
 Recipe Rover ensures the security of user data with robust authentication mechanisms. Users can create accounts, log in securely, and enjoy a personalized experience while contributing to the community.
 #### 5. Personal Recipe Box
 Save your favorite recipes in your personal Recipe Box for quick access. Whether you're planning a meal or looking for inspiration, your Recipe Box keeps everything organized.
 #### 6. Rich Multimedia Experience
 Recipes come to life with vibrant images, detailed ingredients, and step-by-step instructions. Users can upload images of their dishes to showcase their culinary achievements.
 
-## Getting Started
 
- ![3](https://github.com/ayeshabaloch123/Recipe-Rover-Flutter-App/assets/90467681/8bfe6b5f-4a54-4090-b872-a98c18127b81)
+## UI of Recipe Rover
+
+![1](https://github.com/ayeshabaloch123/Recipe-Rover-Flutter-App/assets/90467681/30ed49fd-6a82-473a-b7cf-3e224e2789ec)
+
+![2](https://github.com/ayeshabaloch123/Recipe-Rover-Flutter-App/assets/90467681/c8f581c1-60d7-412a-9bbc-4979c633b53c)
+
+
+## Getting Started
 
 To get started with Recipe Rover, follow these simple steps:
 1.	Download the App: Get Recipe Rover from your app store (iOS/Android).
