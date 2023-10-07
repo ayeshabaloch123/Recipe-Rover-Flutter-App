@@ -29,6 +29,20 @@ Recipes come to life with vibrant images, detailed ingredients, and step-by-step
 ![2](https://github.com/ayeshabaloch123/Recipe-Rover-Flutter-App/assets/90467681/c8f581c1-60d7-412a-9bbc-4979c633b53c)
 
 
+## Firebase Integration
+
+# User Authentication
+The Recipe Rover app leverages Firebase Authentication to provide a secure and seamless user experience. Users can create accounts, sign in, and securely authenticate their identity. Firebase Authentication ensures that user credentials are handled with industry-standard security practices, offering a robust and trustworthy authentication system for Recipe Rover.
+
+![Screenshot 2023-10-07 235830](https://github.com/ayeshabaloch123/Recipe-Rover-Flutter-App/assets/90467681/62accc58-6d6f-4b48-bb5c-df6aa1153eae)
+
+
+# Cloud Firestore - Recipe Data Storage
+Recipe details are stored in Firebase Cloud Firestore, a NoSQL document database. Each recipe is represented as a document in the "recipes" collection, with fields such as name, ingredients, steps, and an optional image URL. This allows for efficient retrieval and storage of recipe data, making it easily accessible for users.
+
+![Screenshot 2023-10-07 235749](https://github.com/ayeshabaloch123/Recipe-Rover-Flutter-App/assets/90467681/f772341e-a358-4698-b857-06a44d20fe37)
+
+
 ## Getting Started
 
 To get started with Recipe Rover, follow these simple steps:
